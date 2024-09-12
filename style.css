@@ -1,0 +1,20 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: rgb(169, 151, 151);
+    text-align: center;
+}
+
+.options {
+  display: flex;
+  justify-content: space-around;
+}
+
+img {
+    margin: 15px auto;
+    height: 500px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px #342929;
+}
